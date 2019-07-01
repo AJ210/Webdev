@@ -1,0 +1,15 @@
+<html>
+
+<head>
+<title> my web page</title>
+<link href="new.css" rel=stylesheet">
+</head>
+<body>
+<b style="color:red;background-color:green;">this is bold</b> <br>
+<b style='font-family:arial;font_size:40px;">thid id new bold</b> <br>
+
+<p>this is the quote</q> br>
+<!--this is hml comment-->
+</body>
+<html>
+
