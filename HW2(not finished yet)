@@ -1,28 +1,27 @@
 <html>
 <head>
-<title> </title>
 <style>
-
-
 h1{
-  border: 3px solid #f7e987;
-  border-radius: 30px;
+  border: 100px solid #f7e987;
+  border-radius:30px;
   margin:40px;
   Padding:30px;
 }
-style=color:yellow;>
-<h1 style="Background-color:blue black;"> This is heading</h1>
-<h1 style="Text-align:right;"> This is heading</h1>
+
+<Body>
+h.center{
+style=color:
+} 
+h1{background-color: black;
+<h1 style="Text-align:top-right;">This is heading</h1>
+} 
 </style>
 </head>
-<body>
-
-<h1> This is heading </h2>
-<p> </p>
 
 
-
-
+<h1> This is heading </h1>
+<>p>I should be green</p>
+<p style="background-color:Green;">
 
 </body>
-</html>
+</html
