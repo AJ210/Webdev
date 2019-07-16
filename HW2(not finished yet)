@@ -10,7 +10,7 @@ h1{
   margin:40px;
   Padding:30px;
 }
-color:Yellow;
+style=color:yellow;>
 <h1 style="Background-color:blue black;"> This is heading</h1>
 <h1 style="Text-align:right;"> This is heading</h1>
 </style>
