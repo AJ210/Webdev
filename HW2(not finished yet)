@@ -20,8 +20,8 @@ h1{background-color: black;
 
 
 <h1> This is heading </h1>
-<>p>I should be green</p>
-<p style="background-color:Green;">
+<p>I should be green</p>
+<p> style="background-color:Green;"></p>
 
 </body>
 </html
